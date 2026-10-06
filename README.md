@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Berke Erikçi — Full-Stack & Game Developer" width="100%" />
+<img src="./assets/banner.svg" alt="Berke Erikçi — Full-Stack Web &amp; SEO Developer · games &amp; mods on the side" width="100%" />
 
 <a href="./README.md">🇬🇧 English</a> &nbsp;·&nbsp; <a href="./README.tr.md">🇹🇷 Türkçe</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B9BFF&center=true&vCenter=true&width=620&lines=Building+restaurant+platforms+with+Flutter+%2B+Fastify;Crafting+3D+web+experiences+in+React+Three+Fiber;Making+Roblox+tycoons+in+Lua+%26+Minecraft+Forge+mods" alt="what I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B9BFF&center=true&vCenter=true&width=620&lines=Building+restaurant+platforms+with+Flutter+%2B+Fastify;Technical+SEO+%26+Core+Web+Vitals;Crafting+3D+web+experiences+in+React+Three+Fiber" alt="Building restaurant platforms with Flutter + Fastify · Technical SEO &amp; Core Web Vitals · 3D web experiences in React Three Fiber" />
 
 </div>
 
@@ -14,11 +14,20 @@
 
 ### ⚡ About
 
-CS student and freelance developer. I design and ship software end to end — web platforms, 3D web experiences, desktop apps, and games.
+CS student and freelance developer. I build fast, search-friendly web platforms end to end — from 3D frontends and APIs to technical SEO — plus desktop apps.
+
+**Main focus**
 
 - 🌐 **Web** — Next.js, React Three Fiber, Node / Fastify, Flutter
-- 🎮 **Games** — Roblox tycoons in Lua, Minecraft Forge modpacks
+- 🔍 **SEO** — technical SEO audits, structured data, Core Web Vitals, local SEO landing pages
 - 🖥️ **Desktop** — Java / Spring Boot + JavaFX, C# / WPF
+
+**On the side**
+
+- 🎮 **Games & mods** — Roblox tycoons in Lua, Minecraft Forge modpacks
+
+**Now**
+
 - 🔭 **Currently** — a multi-restaurant ordering platform and a CLI agent orchestrator
 - 🌱 **Goal** — building toward Teknofest / TÜBİTAK projects
 
@@ -36,6 +45,8 @@ CS student and freelance developer. I design and ship software end to end — we
 ![Three.js](https://img.shields.io/badge/Three.js-049EF4?style=flat-square&logo=threedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 
 ---
 
