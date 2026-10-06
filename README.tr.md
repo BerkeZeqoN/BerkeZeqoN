@@ -41,7 +41,8 @@ Bilgisayar mühendisliği öğrencisi ve freelance geliştirici. Yazılımı uç
 
 <div align="center">
 
-📫 **berke.codehub@gmail.com**
+<a href="https://www.linkedin.com/in/berke-erik%C3%A7i-739a64352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:berke.codehub@gmail.com"><img src="https://img.shields.io/badge/berke.codehub%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email: berke.codehub@gmail.com" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=BerkeZeqoN&style=flat-square&color=8b9bff" alt="profil görüntülenme" />
 
